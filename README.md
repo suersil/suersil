@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi 
 
-<!--
-**suersil/suersil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Hi, I'm <strong>Suélen! </strong>
+  A Java Developer in progress, I also work on creating websites, focusing on making them user-friendly and visually appealing through UI/UX design...
+  
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+   Languages: HTML, CSS, JS, JAVA
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+   Work tools: VSCode, IntelliJ, Trello, Affinity Photo, AdobeXD, Figma and etc. 
+</p>
+
+<p align="left">
+  
+[![Linkedin](https://img.shields.io/badge/-Suelen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suelen-silva-66863693/)](https://www.linkedin.com/in/suelen-silva-66863693/)

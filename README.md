@@ -1,17 +1,17 @@
-### Hi 
 
 <p align="left"> 
-  Hi, I'm <strong>Suélen! </strong>
-  A Java Developer in progress, I also work on creating websites, focusing on making them user-friendly and visually appealing through UI/UX design...
+  <p>Hi, I'm <strong>Suélen! </strong></p>
+  <p>A Java Developer in progress.</p>
+  I also work on creating websites, focusing on making them user-friendly and visually appealing through UI/UX design...
   
 </p>
 
 <p align="left">
-   Languages: HTML, CSS, JS, JAVA
+   <strong>Languages:</strong> HTML, CSS, JS, JAVA
 </p>
 
 <p align="left">
-   Work tools: VSCode, IntelliJ, Trello, Affinity Photo, AdobeXD, Figma and etc. 
+   <strong>Work tools:</strong> VSCode, IntelliJ, Trello, Affinity Photo, AdobeXD, Figma and etc. 
 </p>
 
 <p align="left">
